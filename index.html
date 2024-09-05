@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Imersão Dev Alura</title>
+  </head>
+  <body>
+    <video autoplay muted loop id="myVideo">
+      <source
+        src="./videoBackgraund/99634-655565001_medium.mp4"
+        type="video/mp4"
+      />
+    </video>
+    <header>
+      <nav>
+        <h1>E SE AS MOTOS FOSSEM PESSOAS?</h1>
+      </nav>
+    </header>
+    <main>
+      <section id="section1">
+        <input
+          type="text"
+          id="pequisa"
+          name="pesquisa"
+          required
+          placeholder="Digite aqui a moto que deseja conhecer..."
+        />
+        <button onclick="pesquisarMoto()">Pesquisar</button>
+      </section>
+      <section class="resultados-pesquisa" id="container-cards"></section>
+    </main>
+    <footer>
+      <p>
+        Desenvolvido por
+        <a href="https://github.com/GabrielD1996">Gabrie D.</a> - 2024
+      </p>
+    </footer>
+    <script src="./scripts/dados.js"></script>
+    <script src="./scripts/app.js"></script>
+  </body>
+</html>
