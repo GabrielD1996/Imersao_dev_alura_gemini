@@ -12,7 +12,7 @@ Este projeto foi desenvolvido durante a **Imersão Dev Alura**, com o objetivo d
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura do site.
-- **CSS3**: Estilos e design responsivo.
+- **CSS**: Estilos e design responsivo.
 - **JavaScript (ES6)**: Lógica da aplicação para pesquisar e exibir as motos.
 - **GitHub Pages**: Hospedagem do projeto.
 
