@@ -169,15 +169,26 @@ section button:hover {
 
 /* Estiliza o rodapé da página */
 footer {
-    background-color: #410508ec; /* Cor de fundo do rodapé */
-    color: #ffffff; /* Cor do texto */
-    text-align: center; /* Alinha o texto ao centro */
+    background-color: #4d2f31ab; /* Cor de fundo do rodapé */
+    color: #ffffff; /* Cor do texto */ 
     padding: 0; /* Espaçamento interno */
     width: 100%; /* Largura total da página */
     height: 3rem;
     position: fixed; /* Posiciona o rodapé */
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
+}
+footer p {
+    margin: .6rem 0;
+    display: flex;
+    justify-content: center;
+    
+}
+.link-footer{ 
+    margin-left: 15px;
+    text-decoration: none;
+    color: #fff;
+   
 }
 
 @media (max-width: 768px) {

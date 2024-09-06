@@ -52,11 +52,10 @@ git clone https://github.com/GabrielD1996/projeto-motos-pessoas.git
 
 2. Abra o arquivo `index.html` em qualquer navegador para visualizar o projeto.
 
-## Contribuições
+3. Vizualize o site pelo link [Site](https://motos-ou-pessoas.vercel.app/)
 
-Sinta-se à vontade para enviar *pull requests* ou abrir *issues* para melhorias.
 
 ---
 
-**Desenvolvido por**: [Gabriel D.](https://github.com/GabrielD1996)  
+**Desenvolvido por**: [Gabriel Domingues](https://github.com/GabrielD1996)  
 **Ano**: 2024
